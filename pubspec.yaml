@@ -3,7 +3,7 @@ description: A starting point for Dart libraries or applications.
 version: 1.0.0
 repository: https://github.com/jokerMabrouk/triangle_calculator.git
 
-# publish_to: none
+publish_to: none
 # publish_to: https://github.com/jokerMabrouk/triangle_calculator.git
 
 environment:

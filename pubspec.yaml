@@ -3,12 +3,16 @@ description: A starting point for Dart libraries or applications.
 version: 1.0.0
 repository: https://github.com/jokerMabrouk/triangle_calculator.git
 
+publish_to: none
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
 
-# dependencies:
-#   path: ^1.8.0
+dependencies:
+  path: ^1.8.0
+  
+  kittens:
+    git: git@github.com:munificent/kittens.git
 
 dev_dependencies:
   lints: ^2.0.0
